@@ -24,6 +24,7 @@ This is a Streamlit web application that allows users to explore and analyze car
 ## To run the app
 1. Clone the repository:
     git clone url
+2. Create enviroment: python -m venv venv
 3. Activate enviroment: 
     venv\Scripts\activate
 4. Install requirements: 
