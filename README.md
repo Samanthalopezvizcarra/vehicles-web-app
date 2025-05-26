@@ -22,13 +22,13 @@ This is a Streamlit web application that allows users to explore and analyze car
 - Fuel and color proportions
 
 ## To run the app
-1. Clone the repository 
+1. Clone the repository:
     git clone url
-2. Activate enviroment
+3. Activate enviroment: 
     venv\Scripts\activate
-3. Install requirements
+4. Install requirements: 
      pip install -r requirements.txt
-4. Launch the app
+5. Launch the app: 
     streamlit run app.py
 
 Thanks
